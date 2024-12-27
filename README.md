@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on LeetCode algorithms and side projects
+- 🌱 I’m currently building a website for a non-profit radio station
 - 😄 Pronouns: he/him
 - 📫 How to reach me: email: [aavillanueva6@gmail.com](aavillanueva6@gmail.com)
 
